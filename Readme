@@ -1,0 +1,9 @@
+Using SciKit and its Non-Negative Metrix Factorization (NMF) , TfidfVectorizer tools 
+Topic Modeling is a methode to analyse lage volume of data and cluster them into 'Topics'
+We use Unsupervised Learning approch since we are working with Unlabled data and there is no 'right answer'
+The model goes thourgh large volume of data and gives out the most probable words that may belong to the same topic 
+
+
+NOTE# - The User decides the number of topics/clusters to be detected 
+      - The User have to get what the topic is based on the most probable words 
+      - Data use to train the model is a .csv file inside nrp.rar
